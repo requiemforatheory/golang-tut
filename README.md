@@ -1,7 +1,9 @@
 # golang-tut
 ### ***R4AT***
 
-So you're interested in learning Go, but the tour isn't quite rustling your education jimmies and you find yourself swimming against the current that is apathy? You've found the right place. This is a more lesson plan-oriented survey of the Go language, starting with the basics, covering the bases, and ending with some advanced use-cases. Each lesson is accompanied by the source used in its examples, and the whole tutorial is best grabbed with 'go get github.com/requiemforatheory/golang-tut'.
+***This is a WIP, and can be considered pre-alpha at this point. Caveat emptor.***
+
+So you're interested in learning Go, but the tour isn't quite rustling your education jimmies and you find yourself swimming against the current that is apathy? You've found the right place. This is a more lesson plan-oriented survey of the Go language, starting with the basics, covering the bases, and ending with some advanced use-cases. Each lesson is accompanied by the source used in its examples, and the whole tutorial is best grabbed with `go get github.com/requiemforatheory/golang-tut` (it'll work even though Go will throw an error, for now).
 
 ## TOC
 ### Part 1: Intro to Go
