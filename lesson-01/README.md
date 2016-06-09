@@ -28,6 +28,9 @@ If that's insufficient instruction for you, find your preferred OS and text edit
 ### 1.1.2 OS-Specific Instructions
 #### Arch Linux
 
+### 1.1.3 Editor-Specific Instructions
+#### Atom
+
 ## 1.2 Go Packages and Imports
 
 ## 1.3 Hello, World
